@@ -1,1 +1,3 @@
-var redirectUrl = "https://knintegra.vercel.app";
+const REDIRECT_URL = 'https://knintegra.vercel.app'
+
+window.location.href = REDIRECT_URL
