@@ -1,1 +1,1 @@
-var redirectUrl = "https://knintegra.vercel.app";
+var redirectUrl = "https://www.facebook.com/knintegra/";
